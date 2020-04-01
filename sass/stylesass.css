@@ -1,0 +1,27 @@
+.inicio {
+  background: url("../imagenes/Fondo-Inicio.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  width: auto;
+  overflow: hidden;
+}
+
+.quien-soy {
+  background: url("../imagenes/Fondo-QuienSoy.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  width: auto;
+  overflow: hidden;
+}
+
+.conocimientos {
+  background: url("../imagenes/Fondo-conocimientos.png");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  width: auto;
+  overflow: hidden;
+}
+/*# sourceMappingURL=stylesass.css.map */
